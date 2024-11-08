@@ -1,2 +1,2 @@
 # VSCode-Profiles
-custom vscode profiles
+These are my own custom vscode profiles
